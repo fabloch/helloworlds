@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="wolf-black.svg"
+   inkscape:version="1.0.1 (c497b03c, 2020-09-10)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 145.52083 145.52084"
+   height="550"
+   width="550"
+   inkscape:export-filename="/Users/sebastiennicolaidis/Fabloch/helloworlds/helloworlds pano.png"
+   inkscape:export-xdpi="177.03"
+   inkscape:export-ydpi="177.03">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="23"
+     inkscape:window-x="0"
+     inkscape:window-height="1075"
+     inkscape:window-width="1792"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer2"
+     inkscape:document-units="px"
+     inkscape:cy="355.36938"
+     inkscape:cx="-246.22446"
+     inkscape:zoom="0.17372031"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     units="px" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     style="display:inline"
+     inkscape:label="Calque 2"
+     id="layer2"
+     inkscape:groupmode="layer">
+    <g
+       id="g1847"
+       transform="matrix(2.1063351,0,0,2.1063351,-122.91298,-129.37293)"
+       style="stroke-width:0.474758"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="/Users/sebastiennicolaidis/Fabloch/helloworlds/helloworlds-white.png">
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         d="m 83.487063,100.38403 -10.507694,10.5077 V 89.876331 Z"
+         style="fill:#000000;fill-opacity:0.55;stroke:none;stroke-width:0.207634;paint-order:stroke markers fill;stop-color:#000000"
+         id="path1815" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         d="m 102.30806,100.38403 10.50769,10.5077 V 89.876331 Z"
+         style="fill:#000000;fill-opacity:0.55;stroke:none;stroke-width:0.207634;paint-order:stroke markers fill;stop-color:#000000"
+         id="path1817" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         d="m 92.897555,116.13831 21.182975,-22.488364 -42.365929,-1e-5 z"
+         style="fill:#000000;fill-opacity:0.6;stroke:none;stroke-width:0.406721;paint-order:stroke markers fill;stop-color:#000000"
+         id="path1819" />
+      <path
+         id="path1821"
+         style="fill:#000000;fill-opacity:0.65;stroke:none;stroke-width:0.139726;paint-order:stroke markers fill;stop-color:#000000"
+         d="m 72.24447,90.741077 h 9.999996 L 72.24447,68.091559 Z"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+      <path
+         id="path1823"
+         style="fill:#000000;fill-opacity:0.65;stroke:none;stroke-width:0.139726;paint-order:stroke markers fill;stop-color:#000000"
+         d="m 113.55066,90.741077 h -10 l 10,-22.649518 z"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+      <path
+         id="path1825"
+         style="fill:#000000;fill-opacity:0.65;stroke:none;stroke-width:0.308654;paint-order:stroke markers fill;stop-color:#000000"
+         d="M 98.216438,123.8374 89.503701,117.50317 114.6097,93.120775 Z"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         d="M 87.049521,123.8374 96.291426,117.50318 71.185438,93.120766 Z"
+         style="fill:#000000;fill-opacity:0.65;stroke:none;stroke-width:0.308654;paint-order:stroke markers fill;stop-color:#000000"
+         id="path1827" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         d="m 111.99287,85.473412 11.99976,10.293196 -12.02878,2e-6 z"
+         style="fill:#000000;fill-opacity:0.65;stroke:none;stroke-width:0.278942;paint-order:stroke markers fill;stop-color:#000000"
+         id="path1829" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         d="m 73.802253,85.473403 -11.999758,10.293196 12.028778,2e-6 z"
+         style="fill:#000000;fill-opacity:0.65;stroke:none;stroke-width:0.278942;paint-order:stroke markers fill;stop-color:#000000"
+         id="path1831" />
+      <path
+         id="path1833"
+         style="fill:#000000;fill-opacity:0.6;stroke:none;stroke-width:0.196835;paint-order:stroke markers fill;stop-color:#000000"
+         d="m 113.02219,94.708264 -2e-5,-19.605327 -14.087375,19.605327 z"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+      <path
+         id="path1835"
+         style="fill:#000000;fill-opacity:0.6;stroke:none;stroke-width:0.196835;paint-order:stroke markers fill;stop-color:#000000"
+         d="m 72.772939,94.708264 2e-5,-19.605327 14.087374,19.605327 z"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         d="M 92.89756,122.28101 82.524048,89.439949 h 20.747042 z"
+         style="display:inline;fill:#000000;fill-opacity:0.6;stroke:none;stroke-width:0.207635;paint-order:stroke markers fill;stop-color:#000000"
+         id="path1837" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         d="m 92.897569,119.5656 7.071066,-7.07107 H 85.826501 Z"
+         style="fill:#ffffff;stroke:none;stroke-width:0.139726;paint-order:stroke markers fill;stop-color:#000000"
+         id="path1839" />
+      <g
+         id="g1845"
+         style="fill:#ffffff;stroke-width:0.474758">
+        <path
+           id="path1841"
+           style="fill:#ffffff;stroke:none;stroke-width:0.139726;paint-order:stroke markers fill;stop-color:#000000"
+           d="m 78.218367,98.793828 h 9.999995 l -9.999997,-9.999996 z"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc" />
+        <path
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           d="m 107.57677,98.793828 -10.000011,10e-6 10.000011,-10.000007 z"
+           style="fill:#ffffff;stroke:none;stroke-width:0.139726;paint-order:stroke markers fill;stop-color:#000000"
+           id="path1843" />
+      </g>
+    </g>
+  </g>
+</svg>
